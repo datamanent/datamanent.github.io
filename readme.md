@@ -3,7 +3,7 @@
 > Descrizione
 
 
-## Contents
+## Indice
 
 - [Introduzione](#Introduzione)
 - [Social Media](#Social-Media)

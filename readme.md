@@ -5,8 +5,8 @@
 
 ## Contents
 
-- [Introduzione](#intro)
-- [Social Media](#another-section)
+- [Introduzione](#Introduzione)
+- [Social Media](#Social-Media)
 - [Sistemi Operativi](#another-section)
 - [Software](#another-section)
 - [Web Browsers](#another-section)
@@ -15,7 +15,7 @@
 - [Media](#another-section)
 
 
-## intro
+## Introduzione
 
 About this section. Optional. Keep this short and focus on the list.
 
@@ -23,7 +23,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [List item](http://example.com)
 
 
-## Another Section
+## Social Media
 
 ### Subsection
 

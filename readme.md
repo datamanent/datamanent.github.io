@@ -1,15 +1,21 @@
-# Data Manent [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Data Manent
 
 > Descrizione
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Introduzione](#intro)
+- [Social Media](#another-section)
+- [Sistemi Operativi](#another-section)
+- [Software](#another-section)
+- [Web Browsers](#another-section)
+- [Dispositivi Indossabili](#another-section)
+- [Formazione](#another-section)
+- [Media](#another-section)
 
 
-## Section
+## intro
 
 About this section. Optional. Keep this short and focus on the list.
 
